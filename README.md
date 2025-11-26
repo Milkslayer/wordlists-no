@@ -60,14 +60,3 @@ This version can be used where ordering should be non-deterministic or uniformly
 
 All wordlists in this repository are released under **CC0 1.0 Universal (Public Domain Dedication)**.
 You may use, modify, redistribute, or incorporate them into any project—commercial or non-commercial—without attribution.
-
----
-
-If you'd like, I can also generate:
-
-* the `LICENSE` file
-* a shields.io “Public Domain / CC0” badge
-* a section explaining how the diceware lists are generated
-* a pipeline diagram (optional)
-
-Just tell me what to add.
